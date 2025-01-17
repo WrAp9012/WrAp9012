@@ -23,7 +23,7 @@ Jestem pasjonatem programowania i technologii! 🚀 Obecnie rozwijam się w **Py
 [![Sieci Komputerowe](https://img.shields.io/badge/-Sieci_Komputerowe-0057D4?style=flat&logo=cisco&logoColor=white)](https://www.cisco.com/)  
 
 ## 📊 Statystyki GitHub  
-![Twoje statystyki](https://github-readme-stats.vercel.app/api?username=TwojaNazwaUżytkownika&show_icons=true&theme=radical)  
+![Twoje statystyki](https://github-readme-stats.vercel.app/api?username=WrAp9012&show_icons=true&theme=radical)  
 
 ## 📡 Znajdziesz mnie tutaj  
 🔗 [GitHub](https://github.com/TwojaNazwaUżytkownika)  
