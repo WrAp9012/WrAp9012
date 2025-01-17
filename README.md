@@ -17,9 +17,13 @@ Jestem pasjonatem programowania i technologii! 🚀 Obecnie rozwijam się w **Py
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)  
 [![PyQt6](https://img.shields.io/badge/-PyQt6-41CD52?style=flat&logo=qt&logoColor=white)](https://www.riverbankcomputing.com/software/pyqt/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)  
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)  
+[![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)  
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![Sieci Komputerowe](https://img.shields.io/badge/-Sieci_Komputerowe-0057D4?style=flat&logo=cisco&logoColor=white)](https://www.cisco.com/)  
 
 ## 📊 Statystyki GitHub  
-![Twoje statystyki](https://github-readme-stats.vercel.app/api?username=WrAp9012&show_icons=true&theme=radical)  
+![Twoje statystyki](https://github-readme-stats.vercel.app/api?username=TwojaNazwaUżytkownika&show_icons=true&theme=radical)  
 
 ## 📡 Znajdziesz mnie tutaj  
 🔗 [GitHub](https://github.com/TwojaNazwaUżytkownika)  
