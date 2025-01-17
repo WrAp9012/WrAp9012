@@ -19,7 +19,7 @@ Jestem pasjonatem programowania i technologii! 🚀 Obecnie rozwijam się w **Py
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)  
 
 ## 📊 Statystyki GitHub  
-![Twoje statystyki](https://github-readme-stats.vercel.app/api?username=TwojaNazwaUżytkownika&show_icons=true&theme=radical)  
+![Twoje statystyki](https://github-readme-stats.vercel.app/api?username=WrAp9012&show_icons=true&theme=radical)  
 
 ## 📡 Znajdziesz mnie tutaj  
 🔗 [GitHub](https://github.com/TwojaNazwaUżytkownika)  
