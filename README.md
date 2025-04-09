@@ -8,11 +8,21 @@
 Jestem uczniem technikum informatycznego z pasją do **programowania, AI i tworzenia gier**. Ukończyłem kwalifikacje INF.02 i INF.04, uczę się pod kątem INF.03. Tworzę własne projekty, biorę udział w zespołowych inicjatywach i ciągle uczę się czegoś nowego.  
 
 🔭 Obecnie pracuję nad:  
-- 🎮 grą 2D w silniku **Godot**  
-- 🧠 podstawami **Machine Learning** i **Data Science**  
-- 🔌 budową **REST API** z wykorzystaniem Django i FastAPI  
+- 📊 **Projektami Data Science** z wykorzystaniem danych publicznych (np. COVID, finanse, edukacja)  
+- 🧠 **Podstawowymi modelami Machine Learning** (klasyfikacja, regresja, clustering)  
+- 🔌 **Tworzeniem REST API** do komunikacji z modelami ML i automatyzacją zadań  
+- 📄 **Scrapowaniem danych** i budowaniem pipeline’ów danych w Pythonie  
+- 🤖 **Rozpoznawaniem obrazu i NLP (na poziomie wstępnym)**  
 
 ---
+
+### 📌 Projekty
+
+🔹 **📊 Analiza danych edukacyjnych w Pythonie**  
+→ czyszczenie danych, wizualizacje, wykresy, podstawowe modele ML  
+
+🔹 **🧠 Klasyfikator AI z interfejsem REST API (FastAPI)**  
+→ model ML uczący się na zbiorze danych + API zwracające predykcję  
 
 ### 🛠️ Technologie & narzędzia
 
@@ -42,8 +52,6 @@ Jestem uczniem technikum informatycznego z pasją do **programowania, AI i tworz
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=WrAp9012&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
-
-
 ---
 
 ### 📚 Edukacja
