@@ -1,85 +1,66 @@
-<h1 align="center">👋 Cześć, jestem Szymon!</h1>
-<h3 align="center">Technik informatyk | Programista backend | Entuzjasta AI, ML i GameDevu 🎮🤖</h3>
+<h1 align="center">👋 Hej! Jestem [Twoje Imię]</h1>
+<h3 align="center">🎓 Technik informatyk | 💻 Backend Developer | 🤖 AI & GameDev entuzjasta</h3>
 
 ---
 
-### 🚀 O mnie
+### 🧠 O mnie
 
-Jestem uczniem technikum informatycznego z pasją do tworzenia rzeczy, które **działają i robią coś fajnego**. Od aplikacji desktopowych w PyQt6, przez strony w React, aż po **gry 2D w Godot** – ciągle uczę się nowych technologii i rozwijam projekty indywidualne oraz zespołowe.  
+Jestem uczniem technikum informatycznego z pasją do **programowania, AI i tworzenia gier**. Ukończyłem kwalifikacje INF.02 i INF.04, uczę się pod kątem INF.03. Tworzę własne projekty, biorę udział w zespołowych inicjatywach i ciągle uczę się czegoś nowego.  
 
-Aktualnie zdobywam doświadczenie z obszarów:
-
-- 🧠 **Sztuczna inteligencja** (AI)
-- 📊 **Data Science / Machine Learning**
-- 🌐 **Tworzenie API (REST, Django, FastAPI)**
-- 🕹️ **GameDev w Godot**
-- 🛠️ **Automatyzacja i skrypty**
-- 🧱 **Projektowanie systemów i aplikacji backendowych**
+🔭 Obecnie pracuję nad:  
+- 🎮 grą 2D w silniku **Godot**  
+- 🧠 podstawami **Machine Learning** i **Data Science**  
+- 🔌 budową **REST API** z wykorzystaniem Django i FastAPI  
 
 ---
 
-### 🔧 Technologie, które ogarniam
+### 🛠️ Technologie & narzędzia
 
-#### 👨‍💻 Programowanie
-`Python` `Go` `Java (Android)` `PHP` `JavaScript` `TypeScript` `GDScript`
-
-#### 🌐 Web Development
-`HTML` `CSS` `React` `Vite` `Django` `FastAPI` `SQL` `NoSQL` `PHP`
-
-#### 📱 Mobile & Desktop
-`PyQt6` `Java Android (podstawy)`
-
-#### 🧠 Data / AI / ML
-`Pandas` `Matplotlib` `scikit-learn` `Podstawy modeli ML` `Zbieranie i analiza danych`
-
-#### 🕹️ Game Development
-`Godot` `GDScript` `Planowanie gry` `Zarządzanie zespołem w GameDev`
-
-#### ⚙️ Dev Tools & Others
-`Git` `GitHub` `Docker (podstawy)` `Markdown` `Notion` `Linux` `Windows`  
-`Sieci TCP/IP` `DHCP` `DNS` `FTP` `SSH` `Składanie PC` `Diagnostyka sprzętu`
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-### 📌 Projekty
+### 📈 GitHub Statystyki
 
-🔹 **🎮 Gra 2D w Godot** – zespołowy projekt GameDev  
-→ logika gry, UI, GDScript, planowanie i wersjonowanie (GitHub)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WrAp9012&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WrAp9012&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-🔹 **📡 REST API z Django/FastAPI**  
-→ testowe backendy z autoryzacją, bazą danych, dokumentacją Swagger
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WrAp9012&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
 
-🔹 **🤖 Boty Discord / automatyzacje**  
-→ boty w Pythonie, powiadomienia, funkcje interaktywne, automatyzacja zadań
-
-🔹 **📊 Mini projekty Data Science**  
-→ zbieranie danych (scraping), wizualizacja, pierwsze modele klasyfikacyjne
 
 ---
 
-### 📚 Edukacja & certyfikaty
+### 📚 Edukacja
 
-- 🎓 **Technikum Informatyczne** (2021–2026)
-- ✅ INF.02 – sieci i systemy
-- ✅ INF.04 – strony WWW i bazy danych
-- 🛠️ INF.03 – aplikacje i systemy (w trakcie)
-- 🌍 **Erasmus+ (Hiszpania, 2024)** – praktyki IT za granicą
-
----
-
-### 🌍 Języki
-
-- 🇵🇱 Polski – ojczysty  
-- 🇬🇧 Angielski – B2
+- 🏫 **Technikum Informatyczne (2021–2026)**  
+- ✅ INF.02 – systemy i sieci  
+- ✅ INF.04 – strony i bazy danych  
+- 🔄 INF.03 – aplikacje (w trakcie)  
+- 🌍 **Erasmus+ Hiszpania (2024)** – praktyki IT
 
 ---
 
-### 💬 Fun facts
 
-- 🧠 Zawsze uczę się czegoś nowego – obecnie: **ML, Go i tworzenie REST API**
-- ☕ Kocham uczyć się przez projekty – nie tylko z kursów
-- 🎯 Cel: połączyć **AI, backend i GameDev** w jednym zawodzie
+### 💬 Podsumowanie
+
+Dzięki, że zajrzałeś na mój profil!  
+Jeśli interesuje Cię **backend, GameDev, automatyzacja lub AI** – odezwij się, chętnie pogadam lub coś zbudujemy razem 🚀
 
 ---
 
-> *Dzięki za odwiedzenie mojego profilu – obserwuj, jeśli interesuje Cię AI, backend albo GameDev 💜*
