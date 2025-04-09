@@ -1,33 +1,85 @@
-# 💻 Cześć! Jestem [Twoje Imię]  
-Jestem pasjonatem programowania i technologii! 🚀 Obecnie rozwijam się w **Pythonie, PyQt6, Django, TypeScript i React**. Uwielbiam tworzyć aplikacje, automatyzować procesy i zgłębiać tajniki programowania obiektowego. 📚  
+<h1 align="center">👋 Cześć, jestem Szymon!</h1>
+<h3 align="center">Technik informatyk | Programista backend | Entuzjasta AI, ML i GameDevu 🎮🤖</h3>
 
-## 🔭 Moje Projekty i Zainteresowania  
-✔️ **Aplikacje w PyQt6** – buduję interfejsy użytkownika i tworzę dokumentację 📄  
-✔️ **Programowanie w Django i TypeScript** – rozwijam webowe rozwiązania 💻  
-✔️ **Quizy i zagadki programistyczne** – przygotowuję treści na przyszły kanał YouTube 🎥  
-✔️ **Projekty w React + Vite** – szybkie i nowoczesne aplikacje 🛠️  
-✔️ **Automatyzacja w Pythonie** – boty na Discorda i inne skrypty 🤖  
-✔️ **Eksperymenty z Raspberry Pi** – testuję nowe pomysły i rozwiązania 🔬  
-✔️ **Rozwój osobisty** – nauka, siłownia, lepsze zarządzanie finansami 💰  
+---
 
-## 📚 Technologie i Narzędzia  
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)  
-[![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)  
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)  
-[![PyQt6](https://img.shields.io/badge/-PyQt6-41CD52?style=flat&logo=qt&logoColor=white)](https://www.riverbankcomputing.com/software/pyqt/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)  
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)  
-[![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)  
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![Sieci Komputerowe](https://img.shields.io/badge/-Sieci_Komputerowe-0057D4?style=flat&logo=cisco&logoColor=white)](https://www.cisco.com/)  
+### 🚀 O mnie
 
-## 📊 Statystyki GitHub  
-![Twoje statystyki](https://github-readme-stats.vercel.app/api?username=WrAp9012&show_icons=true&theme=radical)  
+Jestem uczniem technikum informatycznego z pasją do tworzenia rzeczy, które **działają i robią coś fajnego**. Od aplikacji desktopowych w PyQt6, przez strony w React, aż po **gry 2D w Godot** – ciągle uczę się nowych technologii i rozwijam projekty indywidualne oraz zespołowe.  
 
-## 📡 Znajdziesz mnie tutaj  
-🔗 [GitHub](https://github.com/TwojaNazwaUżytkownika)  
-🔗 [LinkedIn](https://linkedin.com/in/TwojaNazwa)  
-🔗 [YouTube](https://www.youtube.com/c/TwojKanal)  
+Aktualnie zdobywam doświadczenie z obszarów:
 
-🚀 **Ciągle się rozwijam i tworzę nowe rzeczy!** Jeśli masz pomysł na ciekawy projekt lub chcesz pogadać o technologii – śmiało pisz! ✉️  
+- 🧠 **Sztuczna inteligencja** (AI)
+- 📊 **Data Science / Machine Learning**
+- 🌐 **Tworzenie API (REST, Django, FastAPI)**
+- 🕹️ **GameDev w Godot**
+- 🛠️ **Automatyzacja i skrypty**
+- 🧱 **Projektowanie systemów i aplikacji backendowych**
+
+---
+
+### 🔧 Technologie, które ogarniam
+
+#### 👨‍💻 Programowanie
+`Python` `Go` `Java (Android)` `PHP` `JavaScript` `TypeScript` `GDScript`
+
+#### 🌐 Web Development
+`HTML` `CSS` `React` `Vite` `Django` `FastAPI` `SQL` `NoSQL` `PHP`
+
+#### 📱 Mobile & Desktop
+`PyQt6` `Java Android (podstawy)`
+
+#### 🧠 Data / AI / ML
+`Pandas` `Matplotlib` `scikit-learn` `Podstawy modeli ML` `Zbieranie i analiza danych`
+
+#### 🕹️ Game Development
+`Godot` `GDScript` `Planowanie gry` `Zarządzanie zespołem w GameDev`
+
+#### ⚙️ Dev Tools & Others
+`Git` `GitHub` `Docker (podstawy)` `Markdown` `Notion` `Linux` `Windows`  
+`Sieci TCP/IP` `DHCP` `DNS` `FTP` `SSH` `Składanie PC` `Diagnostyka sprzętu`
+
+---
+
+### 📌 Projekty
+
+🔹 **🎮 Gra 2D w Godot** – zespołowy projekt GameDev  
+→ logika gry, UI, GDScript, planowanie i wersjonowanie (GitHub)
+
+🔹 **📡 REST API z Django/FastAPI**  
+→ testowe backendy z autoryzacją, bazą danych, dokumentacją Swagger
+
+🔹 **🤖 Boty Discord / automatyzacje**  
+→ boty w Pythonie, powiadomienia, funkcje interaktywne, automatyzacja zadań
+
+🔹 **📊 Mini projekty Data Science**  
+→ zbieranie danych (scraping), wizualizacja, pierwsze modele klasyfikacyjne
+
+---
+
+### 📚 Edukacja & certyfikaty
+
+- 🎓 **Technikum Informatyczne** (2021–2026)
+- ✅ INF.02 – sieci i systemy
+- ✅ INF.04 – strony WWW i bazy danych
+- 🛠️ INF.03 – aplikacje i systemy (w trakcie)
+- 🌍 **Erasmus+ (Hiszpania, 2024)** – praktyki IT za granicą
+
+---
+
+### 🌍 Języki
+
+- 🇵🇱 Polski – ojczysty  
+- 🇬🇧 Angielski – B2
+
+---
+
+### 💬 Fun facts
+
+- 🧠 Zawsze uczę się czegoś nowego – obecnie: **ML, Go i tworzenie REST API**
+- ☕ Kocham uczyć się przez projekty – nie tylko z kursów
+- 🎯 Cel: połączyć **AI, backend i GameDev** w jednym zawodzie
+
+---
+
+> *Dzięki za odwiedzenie mojego profilu – obserwuj, jeśli interesuje Cię AI, backend albo GameDev 💜*
