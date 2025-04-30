@@ -1,23 +1,23 @@
-<h1 align="center">Cześć, jestem Szymon 👋</h1>
-<h3 align="center">🎓 Technik informatyk | 💻 Python & Backend Developer | 🤖 AI, ML & GameDev Enthusiast</h3>
+<h1 align="center">Hi, I'm Szymon 👋</h1>
+<h3 align="center">🎓 IT Technician | 💻 Python & Backend Developer | 🤖 AI, ML & GameDev Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Kocham+kodować!;AI+to+przyszłość;Uwielbiam+tworzyć+projekty;Uczę+się+każdego+dnia&center=true&width=400&color=00FFAA">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+love+to+code!;AI+is+the+future;Building+projects+is+my+passion;Learning+every+day&center=true&width=400&color=00FFAA">
 </p>
 
 ---
 
-### 🔭 Obecnie pracuję nad:
+### 🔭 Currently working on:
 
-- 📊 Projektem analizy danych edukacyjnych z wykorzystaniem Pandas i scikit-learn  
-- 🧠 Modelem ML udostępnionym jako REST API (FastAPI)  
-- 🔍 Automatycznym scraperem danych + wizualizacja trendów   
-- 📦 API do prognozowania cen produktów  
-- 🎮 Tworzeniem gry 2D w Godot jako projekt zespołowy
+- 📊 Analyzing educational data using Pandas & scikit-learn  
+- 🧠 ML model deployed as a REST API (FastAPI)  
+- 🔍 Automated data scraper with trend visualizations  
+- 📦 Product price forecasting API  
+- 🎮 A 2D game built in Godot (team project)
 
 ---
 
-### 🛠️ Technologie & narzędzia
+### 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -36,19 +36,19 @@
 
 ---
 
-### 📌 Moje projekty
+### 📌 Featured Projects
 
 - **📊 EduData Analyzer**  
-  Analiza danych edukacyjnych: czyszczenie, wykresy, modele predykcyjne (Python, Pandas, scikit-learn)
+  Cleaning, visualizing, and modeling educational data (Python, Pandas, scikit-learn)
 
 - **🧠 ML REST API**  
-  Klasyfikator ML jako REST API (FastAPI), wejścia JSON, predykcje w czasie rzeczywistym
+  Real-time machine learning predictions via FastAPI, JSON input/output
 
 - **🔍 Web Trend Tracker**  
-  Scraper + wykresy + analiza – np. trendy technologiczne z portali
+  Web scraper + charts to analyze tech trends and topics over time
 
-- **🎮 Gra 2D w Godot (projekt zespołowy)**  
-  Projekt GameDev w Godot, moja rola: logika, GDScript, UI, Git
+- **🎮 2D Game in Godot (Team Project)**  
+  My role: gameplay logic, GDScript coding, UI design, Git collaboration
 
 ---
 
@@ -65,25 +65,27 @@
 
 ---
 
-### 📚 Edukacja
+### 🎓 Education
 
-- 🎓 Technikum Informatyczne (2021–2026)
-- ✅ INF.02 – systemy i sieci  
-- ✅ INF.04 – WWW + bazy danych  
-- 🔄 INF.03 – aplikacje i systemy (w trakcie)  
-- 🌍 Erasmus+ (Hiszpania, 2024) – praktyki IT
-
----
-
-### 🌍 Języki
-
-- 🇵🇱 Polski – ojczysty  
-- 🇬🇧 Angielski – B2
+- 🏫 Technical High School of IT (2021–2026)  
+- ✅ INF.02 – Systems & Networks  
+- ✅ INF.04 – Web & Databases  
+- 🔄 INF.03 – Applications & Systems (in progress)  
+- 🌍 Erasmus+ (Spain, 2024) – IT internship
 
 ---
 
-### 🚀 Podsumowanie
+### 🌍 Languages
 
-> Cześć! 👋  
-> Jeśli interesuje Cię **AI, backend, automatyzacja lub GameDev** – pisz śmiało! Jestem otwarty na współpracę, projekty i wspólne uczenie się nowych rzeczy.  
-> Do zobaczenia w kodzie! 💡
+- 🇵🇱 Polish – Native  
+- 🇬🇧 English – B2
+
+---
+
+### 🚀 Summary
+
+> Hey there! 👋  
+> I'm passionate about **AI, backend development, automation, and GameDev**.  
+> Always open to new projects, learning opportunities, and cool collaborations.  
+> Let's connect and build something awesome together! 💡  
+> See you in the code!
