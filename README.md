@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Szymon+%F0%9F%91%8B;Full+Stack+%26+IoT+Developer;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/TwójUsername?label=Follow&style=social)](https://github.com/TwójUsername)
-[![Profile views](https://komarev.com/ghpvc/?username=TwójUsername&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/TwójUsername)
+[![GitHub followers](https://img.shields.io/github/followers/WrAp9012?label=Follow&style=social)](https://github.com/WrAp9012)
+[![Profile views](https://komarev.com/ghpvc/?username=WrAp9012&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/WrAp9012)
 
 </div>
 
@@ -74,10 +74,10 @@
 
 <div align="center">
 
-[![Blog Platform](https://github-readme-stats.vercel.app/api/pin/?username=WrAp9012&repo=blog-platform&theme=tokyonight&hide_border=true)](https://github.com/TwójUsername/blog-platform)
-[![Smart Home Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=WrAp9012&repo=smart-home-dashboard&theme=tokyonight&hide_border=true)](https://github.com/TwójUsername/smart-home-dashboard)
-[![Custom CMS](https://github-readme-stats.vercel.app/api/pin/?username=WrAp9012&repo=custom-cms&theme=tokyonight&hide_border=true)](https://github.com/TwójUsername/custom-cms)
-[![Mobile Apps](https://github-readme-stats.vercel.app/api/pin/?username=WrAp9012&repo=mobile-apps&theme=tokyonight&hide_border=true)](https://github.com/TwójUsername/mobile-apps)
+[![Blog Platform](https://github-readme-stats.vercel.app/api/pin/?username=WrAp9012&repo=blog-platform&theme=tokyonight&hide_border=true)](https://github.com/WrAp9012/blog-platform)
+[![Smart Home Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=WrAp9012&repo=smart-home-dashboard&theme=tokyonight&hide_border=true)](https://github.com/WrAp9012/smart-home-dashboard)
+[![Custom CMS](https://github-readme-stats.vercel.app/api/pin/?username=WrAp9012&repo=custom-cms&theme=tokyonight&hide_border=true)](https://github.com/WrAp9012/custom-cms)
+[![Mobile Apps](https://github-readme-stats.vercel.app/api/pin/?username=WrAp9012&repo=mobile-apps&theme=tokyonight&hide_border=true)](https://github.com/WrAp9012/mobile-apps)
 
 </div>
 
