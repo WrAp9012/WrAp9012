@@ -1,91 +1,101 @@
-<h1 align="center">Hi, I'm Szymon 👋</h1>
-<h3 align="center">🎓 IT Technician | 💻 Python & Backend Developer | 🤖 AI, ML & GameDev Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+love+to+code!;AI+is+the+future;Building+projects+is+my+passion;Learning+every+day&center=true&width=400&color=00FFAA">
-</p>
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Szymon+%F0%9F%91%8B;Full+Stack+%26+IoT+Developer;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
----
+<!-- Social Badges -->
+[![GitHub followers](https://img.shields.io/github/followers/TwójUsername?label=Follow&style=social)](https://github.com/TwójUsername)
+[![Profile views](https://komarev.com/ghpvc/?username=TwójUsername&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/TwójUsername)
 
-### 🔭 Currently working on:
-
-- 📊 Analyzing educational data using Pandas & scikit-learn  
-- 🧠 ML model deployed as a REST API (FastAPI)  
-- 🔍 Automated data scraper with trend visualizations  
-- 📦 Product price forecasting API  
-- 🎮 A 2D game built in Godot (team project)
+</div>
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🧠 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+```text
+🎓  Technikum Informatyczne (2021–2026)
+📍  Poland
+🔭  Building: Blog Platform | CMS | Smart Home IoT
+📚  Preparing for: Matura Rozszerzona z Fizyki
+🎯  Goal: Software Engineer | SaaS Builder | IoT Developer
+🌐  Languages: Polski (native) · English (B2)
+```
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Tech Stack
 
-- **📊 EduData Analyzer**  
-  Cleaning, visualizing, and modeling educational data (Python, Pandas, scikit-learn)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-- **🧠 ML REST API**  
-  Real-time machine learning predictions via FastAPI, JSON input/output
+### Backend & Databases
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- **🔍 Web Trend Tracker**  
-  Web scraper + charts to analyze tech trends and topics over time
+### Embedded & Hardware
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- **🎮 2D Game in Godot (Team Project)**  
-  My role: gameplay logic, GDScript coding, UI design, Git collaboration
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WrAp9012&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WrAp9012&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WrAp9012&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-
----
-
-### 🎓 Education
-
-- 🏫 Technical High School of IT (2021–2026)  
-- ✅ INF.02 – Systems & Networks  
-- ✅ INF.04 – Web & Databases  
-- 🔄 INF.03 – Applications & Systems (in progress)  
-- 🌍 Erasmus+ (Spain, 2024) – IT internship
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
-### 🌍 Languages
+## 📊 GitHub Stats
 
-- 🇵🇱 Polish – Native  
-- 🇬🇧 English – B2
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=WrAp9012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WrAp9012&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=WrAp9012&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-### 🚀 Summary
+## 🚀 Featured Projects
 
-> Hey there! 👋  
-> I'm passionate about **AI, backend development, automation, and GameDev**.  
-> Always open to new projects, learning opportunities, and cool collaborations.  
-> Let's connect and build something awesome together! 💡  
-> See you in the code!
+<div align="center">
+
+[![Blog Platform](https://github-readme-stats.vercel.app/api/pin/?username=WrAp9012&repo=blog-platform&theme=tokyonight&hide_border=true)](https://github.com/TwójUsername/blog-platform)
+[![Smart Home Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=WrAp9012&repo=smart-home-dashboard&theme=tokyonight&hide_border=true)](https://github.com/TwójUsername/smart-home-dashboard)
+[![Custom CMS](https://github-readme-stats.vercel.app/api/pin/?username=WrAp9012&repo=custom-cms&theme=tokyonight&hide_border=true)](https://github.com/TwójUsername/custom-cms)
+[![Mobile Apps](https://github-readme-stats.vercel.app/api/pin/?username=WrAp9012&repo=mobile-apps&theme=tokyonight&hide_border=true)](https://github.com/TwójUsername/mobile-apps)
+
+</div>
+
+---
+
+## 🎯 Goals for 2026
+
+- [x] 🌐 Build a full Blog Platform with React + TypeScript
+- [x] 🛠️ Create a Custom CMS from scratch
+- [ ] 🤖 Deploy a production-ready IoT Smart Home system
+- [ ] 📱 Release a mobile app on Android
+- [ ] 💼 Land first commercial development experience
+- [ ] 🚀 Launch first SaaS product
+
+---
+
+<div align="center">
+
+*"Always learning, always building."* 🚀
+
+</div>
