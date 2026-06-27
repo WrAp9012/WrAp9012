@@ -17,7 +17,6 @@
 🎓  Technikum Informatyczne (2021–2026)
 📍  Poland
 🔭  Building: Blog Platform | CMS | Smart Home IoT
-📚  Preparing for: Matura Rozszerzona z Fizyki
 🎯  Goal: Software Engineer | SaaS Builder | IoT Developer
 🌐  Languages: Polski (native) · English (B2)
 ```
